@@ -1,0 +1,1 @@
+[[Income effect|Engel curve]] can be used to identify a poverty line (share of total expenditure spent on food based on minimum food requirement)

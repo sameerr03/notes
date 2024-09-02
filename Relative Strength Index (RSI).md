@@ -1,0 +1,5 @@
+RSI is a [[Technical Indicators|TI]] that measures the speed and magnitude of an assets recent price changes in order to evaluate if it is over or undervalued. Traditionally an RSI reading of 30 or below indicates a security is oversold and above 70 indicates overbought or overvalued. 
+
+The RSI works over a datapoint period (typically 14). The first RSI calculation is given by a simple average of the average gain and average loss.$$RSI_{step1}=100-[\frac{100}{1+\frac{Average\ gain}{Average\ loss}}]$$Important to note that the loss values should be positive. Once this is obtained, for the next datapoints, the RSI is calculated as $$RSI_{step2}=100-[\frac{100}{1+\frac{(13\times Previous\ Average\ Gain)+Current\ gain}{(13\times Previous\ Average\ loss)+Current\ loss}}]$$
+The RSI is plotted as 
+![[Pasted image 20230626211820.png]]

@@ -1,0 +1,1 @@
+Models the probability of getting treatment as a function of other variables$$\text{Pr}(T)=\alpha+\beta_1x_{1i}+\beta_2x_{2i}+u_i$$This probability can then be used to match observation groups up with similar propensity scores, giving one a treatment and the other is the counterfactual.

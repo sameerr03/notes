@@ -1,0 +1,90 @@
+{
+  "main": {
+    "id": "914725c34e0f0c53",
+    "type": "split",
+    "children": [
+      {
+        "id": "b5162f009a7db03a",
+        "type": "leaf",
+        "state": {
+          "type": "graph",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "103a8c194d289163",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "d5701c9f0345610c",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {}
+        }
+      },
+      {
+        "id": "3a7797d63ec11069",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "Discrete",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      }
+    ]
+  },
+  "right": {
+    "id": "be0ea1ef91a3366f",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "c87e555b77af42d2",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "5158d0acd40c6097",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "active": "b5162f009a7db03a",
+  "lastOpenFiles": [
+    "M2022/Stats M2022.md",
+    "revealed preferences.md",
+    "Variables.md",
+    "randomness.md",
+    "Binomial Theorem.md",
+    "Probability.md",
+    "Choice sets.md",
+    "M2022/Microeconomics 2022.md",
+    "Untitled.md",
+    "aggregate demand curve.md"
+  ]
+}

@@ -1,0 +1,96 @@
+{
+  "main": {
+    "id": "914725c34e0f0c53",
+    "type": "split",
+    "children": [
+      {
+        "id": "b5162f009a7db03a",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Comparitive statics.md",
+            "mode": "preview",
+            "source": true
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d47436b3cd7970a2",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "cfdb61fff5e4e916",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {}
+        }
+      },
+      {
+        "id": "f5f7d57ada6884e5",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "Conditional ",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      }
+    ],
+    "currentTab": 1
+  },
+  "right": {
+    "id": "03ab2a80352f9dfb",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "5414d7ba29944de8",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Comparitive statics.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "3968bf4ff6855085",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "active": "b5162f009a7db03a",
+  "lastOpenFiles": [
+    "M2022/Microeconomics 2022.md",
+    "Utility function.md",
+    "Optimization.md",
+    "Intro to Eco (S2022)/Utility.md",
+    "Comparitive statics.md",
+    "Probability.md",
+    "bayes' theorem.md",
+    "ISLM model.md",
+    "M2022/Macroeconomics M2022.md",
+    "Intro to Eco (S2022)/investment.md"
+  ]
+}

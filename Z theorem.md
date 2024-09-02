@@ -1,0 +1,1 @@
+If $\bar{X}$ is the mean of a random sample of size $n$ from a normal population with the mean $\mu$ and the variance $\sigma^2$, its sampling distribution is a normal distribution with the mean $\mu$ and the variance $\sigma^2/n$.

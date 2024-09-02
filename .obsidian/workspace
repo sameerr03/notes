@@ -1,0 +1,96 @@
+{
+  "main": {
+    "id": "914725c34e0f0c53",
+    "type": "split",
+    "children": [
+      {
+        "id": "883f63fd3c9ba26d",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "13_0ct.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "90dbbacb141e792d",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "326b5d42b97c3735",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {}
+        }
+      },
+      {
+        "id": "ce0ca4fc736e63f0",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "13_oct",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "548978f7b374babd",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "d065903e3e79eb6a",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "13_0ct.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "88f1f93bcedfc6fd",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "active": "326b5d42b97c3735",
+  "lastOpenFiles": [
+    "Images/13_ oct.md",
+    "M2022/Macroeconomics M2022.md",
+    "13_0ct.md",
+    "aggregate supply.md",
+    "M2022/Microeconomics 2022.md",
+    "exchange equillibrium.md",
+    "Pasted image 20221013132157.png",
+    "M2022/Stats M2022.md",
+    "types of random variables.md",
+    "Intro to Eco (S2022)/pareto efficient.md"
+  ]
+}

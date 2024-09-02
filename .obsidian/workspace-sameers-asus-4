@@ -1,0 +1,112 @@
+{
+  "main": {
+    "id": "914725c34e0f0c53",
+    "type": "split",
+    "children": [
+      {
+        "id": "b5162f009a7db03a",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Goods.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "08f9e1f243410945",
+    "type": "split",
+    "children": [
+      {
+        "id": "ce0118c3677b7bc9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "02bc1b72c8223830",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "15ea3630d36d57fb",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "engel curve",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "e3490c32d2795fdf",
+    "type": "split",
+    "children": [
+      {
+        "id": "952fe879d4b26292",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fec3f176c4910c9c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Goods.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b0fdc36e2e3a0933",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "b5162f009a7db03a",
+  "lastOpenFiles": [
+    "Income effect.md",
+    "Comparitive statics.md",
+    "random variables.md",
+    "M2022/Stats M2022.md",
+    "moments.md",
+    "Frequency distributions.md",
+    "M2022/Microeconomics 2022.md",
+    "M2022/Macroeconomics M2022.md",
+    "2008 financial crisis.md",
+    "Intro to Eco (S2022)/pareto efficient.md"
+  ]
+}

@@ -1,0 +1,1 @@
+When investing in many stocks in a [[portfolio]], It is important for the stocks to be independant of each other. 

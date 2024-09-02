@@ -1,0 +1,1 @@
+This is a method to make sure debts and debt contracts do not change in value over time due to [[inflation]]. This is done by using a price index in order to ensure that the debt is paid back in real terms.

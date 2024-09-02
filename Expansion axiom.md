@@ -1,0 +1,1 @@
+For all $S,T\in\chi$$$[x=c(S)=c(T)]\implies[x=c(S\cup T)]$$

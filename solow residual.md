@@ -1,0 +1,3 @@
+the discrepency in the [[Relative output per worker]] assuming technology is the same, between the model and impirical data, shows that savings, education and population growth alone do not explain the variation in output per worker. The [[technology]] differences cause the variations ($A_i\ne A_{US}$). However, A cannot be measured directly and has to be inferred. Using the production function and taking it in terms of A,
+$$A_i=(\frac{y_i}{k^\alpha h^{1-\alpha}})^{1/1-\alpha}$$$A_i$ is the **solow residual**, a measure that measures everthing that  matters for output per worker other than capital and human capital per labourer. $\hat A_i$ is the relative residual of country $i$ to the US.
+

@@ -1,0 +1,10 @@
+{
+  "baseFontSize": 16,
+  "translucency": true,
+  "textFontFamily": "Inter",
+  "interfaceFontFamily": "Inter",
+  "monospaceFontFamily": "Inter",
+  "theme": "obsidian",
+  "accentColor": "",
+  "nativeMenus": false
+}

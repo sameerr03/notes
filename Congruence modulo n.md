@@ -1,0 +1,1 @@
+$a\equiv b\ (\text{mod}\ n)$ is the congruence modulo [[Relations|relation]]. It means that $n$ divides $a-b$.  

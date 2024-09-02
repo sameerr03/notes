@@ -1,0 +1,103 @@
+{
+  "main": {
+    "id": "914725c34e0f0c53",
+    "type": "split",
+    "children": [
+      {
+        "id": "c5039ded942140d6",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Classical economics.md",
+            "mode": "preview",
+            "source": true
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f7125e3edf8e4213",
+    "type": "split",
+    "children": [
+      {
+        "id": "50ec1e5fa90628f8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "98d18ffd5991cfbe",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "c7db2d60c924489e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "8b30424ea265723a",
+    "type": "split",
+    "children": [
+      {
+        "id": "b9258985543a8f50",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f0b04847255a8490",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Classical economics.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "c5039ded942140d6",
+  "lastOpenFiles": [
+    "principles of note taking.md",
+    "Classical economics.md",
+    "Macro 1/definition of macroeconomics.md",
+    "Macro 1/marginal product of labour.md",
+    "stats for econ/sample.md",
+    "Intro to Eco (S2022)/borrowing.md",
+    "stats for econ/Variables.md",
+    "stats for econ/Population of interest.md",
+    "stats for econ/randomness.md",
+    "Intro to Eco (S2022)/Cost function.md"
+  ]
+}

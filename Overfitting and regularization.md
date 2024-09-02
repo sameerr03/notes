@@ -1,0 +1,6 @@
+Overfitting is when the model fits the training data perfectly but performs very poorly on the test data. More data leads to a lower chance of overfitting. 
+
+#### Regularization
+Regularization is the act of adding a penalty term to the error function in order to discourage large coefficients. This prevents the model from overfitting to the data as large coefficients with low error likely imply that the model has been overfit to the data. 
+
+For a curve fitting exercise, we can approximate any function with a high degree polynomial. This is given by the model$$f(x,W)=\sum_{i=0}^Mw_ix^i$$where $W$ is a vector of weights. The computer looks to select $W$ such that we minimize the error function:$$\min_W\tilde E(W)=\frac 12\sum_{i=1}^N\{f(x_n,W)-t_n\}^2+\frac{\lambda}2||W||$$where $N$ is the number of datapoints and $t_n$ is the original datapoint. $$||W||=WW^T=w_0^2+w_1^2+w_2^2+\dots$$the term $\lambda||W||/2$ is the regularizer term, that punishes the error when the coefficients are very high. This also aids in selecting the simplest possible model that explains the most variation in the data. $\lambda$ is a **hyperparameter** that we also need to determine what value to give it. 

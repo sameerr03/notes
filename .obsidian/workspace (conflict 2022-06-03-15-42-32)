@@ -1,0 +1,88 @@
+{
+  "main": {
+    "id": "914725c34e0f0c53",
+    "type": "split",
+    "children": [
+      {
+        "id": "3afbf3da681f1806",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Intro to Eco (S2022)/assets.md",
+            "mode": "source",
+            "source": true
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6a105f8e713fdb95",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "f55c5b3fc93541de",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {}
+        }
+      },
+      {
+        "id": "a9d5bcd57ac1a404",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "Firm",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "a8d7c6b7a070999f",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "44bf379abe00b8ea",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Intro to Eco (S2022)/assets.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "active": "3afbf3da681f1806",
+  "lastOpenFiles": [
+    "Intro to Eco (S2022)/assets.md",
+    "Intro to Eco (S2022)/firm.md",
+    "Intro to Eco (S2022)/bank.md",
+    "Untitled.md",
+    "Intro to Eco (S2022)/investment.md",
+    "Intro to Eco (S2022)/aggregate demand.md",
+    "Intro to Eco (S2022)/equillibrium.md",
+    "Intro to Eco (S2022)/Capitalism.md",
+    "Intro to Eco (S2022)/Specialization.md",
+    "Intro to Eco (S2022)/economic rent.md"
+  ]
+}

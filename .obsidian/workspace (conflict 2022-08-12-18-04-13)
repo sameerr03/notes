@@ -1,0 +1,88 @@
+{
+  "main": {
+    "id": "914725c34e0f0c53",
+    "type": "split",
+    "children": [
+      {
+        "id": "b876eb690fd4bf83",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Intro to Eco (S2022)/Game Theory.md",
+            "mode": "preview",
+            "source": true
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "87a9599d42f4a62d",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "e5af56b93dd012b0",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {}
+        }
+      },
+      {
+        "id": "a5931e878f95dae9",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "Game ",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      }
+    ],
+    "currentTab": 1
+  },
+  "right": {
+    "id": "ddbe40d120fdc4ba",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "cdc9dfc705d23af0",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Intro to Eco (S2022)/Game Theory.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "active": "b876eb690fd4bf83",
+  "lastOpenFiles": [
+    "Intro to Eco (S2022)/game.md",
+    "Intro to Eco (S2022)/Game Theory.md",
+    "Intro to Eco (S2022)/altruism.md",
+    "Intro to Eco (S2022)/public good.md",
+    "Intro to Eco (S2022)/equillibrium.md",
+    "Intro to Eco (S2022)/Social Interactions.md",
+    "Intro to Eco (S2022)/aggregate demand.md",
+    "Write.md",
+    "Type.md",
+    "Untitled.md"
+  ]
+}

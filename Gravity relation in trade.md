@@ -1,0 +1,2 @@
+empirical relation that relates bilateral trade volume to size of [[Gross Domestic Product]]s and proximity.$$X_{ij}=\kappa\frac{(Y_i^a\times Y_j^b)}{D_{ij}^c}$$
+Where a b and c are the elasticities of trade with respect to GDP of $i$, GDP of $j$ and the distance between $i$ and $j$. These values are estimated by taking logs on both sides$$\log X_{ij}=\log\kappa+a\log Y_{i}+b\log Y_j-c\log D_{ij}+\log\epsilon_{ij}$$Estimating this component, we find that $a,b,c\approx1$

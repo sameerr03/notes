@@ -1,0 +1,152 @@
+{
+  "main": {
+    "id": "914725c34e0f0c53",
+    "type": "split",
+    "children": [
+      {
+        "id": "127096aff4c2de88",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4131781608d4dfba",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Fixed Income Securities.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "90dbbacb141e792d",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "326b5d42b97c3735",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "byModifiedTime"
+          }
+        }
+      },
+      {
+        "id": "ce0ca4fc736e63f0",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "Free cash flow",
+            "matchingCase": true,
+            "explainSearch": false,
+            "collapseAll": true,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "a59e4adec0493c0a",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {}
+        }
+      },
+      {
+        "id": "a5baa609fd464db8",
+        "type": "leaf",
+        "state": {
+          "type": "all-properties",
+          "state": {
+            "sortOrder": "frequency",
+            "showSearch": false,
+            "searchQuery": ""
+          }
+        }
+      }
+    ],
+    "currentTab": 1
+  },
+  "right": {
+    "id": "548978f7b374babd",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "d065903e3e79eb6a",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Fixed Income Securities.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false
+    }
+  },
+  "active": "4131781608d4dfba",
+  "lastOpenFiles": [
+    "M2024/Intro to Quantitative Finance.md",
+    "Financial management.md",
+    "S2024/Introduction to Corporate Finance.md",
+    "Forms of business organisation.md",
+    "S2024/Financial Markets and Asset Pricing.md",
+    "Cash flows.md",
+    "Free cash flow valuation.md",
+    "Images/Pasted image 20240424141313.png",
+    "Images/Pasted image 20240424140650.png",
+    "Krugman Trade Model.md",
+    "Efficient market Hypothesis (EMH).md",
+    "Cash flow statement.md",
+    "Options.md",
+    "Images/Pasted image 20240419160525.png",
+    "Images/Pasted image 20240419160507.png",
+    "Images/Pasted image 20240419160408.png",
+    "Images/Pasted image 20240419160336.png",
+    "Valuation of a levered firm.md",
+    "Price to earnings ratio.md",
+    "Images/Pasted image 20240417220955.png",
+    "Images/Pasted image 20240417220842.png",
+    "Images/Pasted image 20240417220824.png",
+    "Images/Pasted image 20240417220024.png",
+    "Capital Structure.md",
+    "Present Value of a stock.md",
+    "Fama-French Model.md",
+    "Arbitrage pricing theory.md",
+    "Capital Asset Pricing Model (CAPM).md",
+    "2 asset Markovitz portfolio model.md",
+    "S2024/International Trade.md",
+    "Capital allocation line.md",
+    "n Asset markovitz portfolio.md",
+    "Break even analysis.md",
+    "Factor model.md",
+    "Ricardian trade model.md",
+    "Bond Valuation.md",
+    "M2023"
+  ]
+}

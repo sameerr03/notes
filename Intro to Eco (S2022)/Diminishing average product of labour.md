@@ -1,0 +1,2 @@
+# Diminishing average product of labour
+As the labour increases on the same resource (more farmers on the same piece of land), the [[Production Function]] will show a saturation point beyond which the produce does not increase much on adding further labour. As a result, the average product of labour diminishes as the labour force increases

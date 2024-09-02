@@ -1,0 +1,88 @@
+{
+  "main": {
+    "id": "914725c34e0f0c53",
+    "type": "split",
+    "children": [
+      {
+        "id": "3afbf3da681f1806",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Intro to Eco (S2022)/economic rent.md",
+            "mode": "source",
+            "source": true
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5bb34a53315f6f49",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "9bdd150bd8b18cc5",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {}
+        }
+      },
+      {
+        "id": "546f11e412354fc1",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "Phill",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      }
+    ],
+    "currentTab": 1
+  },
+  "right": {
+    "id": "324320f2df43fa7d",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "6055f81135a1465e",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Intro to Eco (S2022)/economic rent.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "active": "3afbf3da681f1806",
+  "lastOpenFiles": [
+    "Intro to Eco (S2022)/economic rent.md",
+    "Intro to Eco (S2022)/Phillips curve.md",
+    "Intro to Eco (S2022)/choosing inflation rates.md",
+    "Intro to Eco (S2022)/inflation.md",
+    "Intro to Eco (S2022)/monetary policy.md",
+    "Intro to Eco (S2022)/bargaining gap.md",
+    "Intro to Eco (S2022)/firm.md",
+    "Intro to Eco (S2022)/assets.md",
+    "Intro to Eco (S2022)/game.md",
+    "Intro to Eco (S2022)/Game Theory.md"
+  ]
+}

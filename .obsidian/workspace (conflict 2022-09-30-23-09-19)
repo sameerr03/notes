@@ -1,0 +1,96 @@
+{
+  "main": {
+    "id": "914725c34e0f0c53",
+    "type": "split",
+    "children": [
+      {
+        "id": "b5162f009a7db03a",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Probability.md",
+            "mode": "preview",
+            "source": true
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "263c6f13f241dab3",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "fb8d6ee72259e805",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {}
+        }
+      },
+      {
+        "id": "a684f516ab5e8c00",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "Inclusio",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      }
+    ],
+    "currentTab": 1
+  },
+  "right": {
+    "id": "830c8a2497387e0a",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "6fbfb873c61904cb",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Probability.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "c7033e628c427332",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "active": "a684f516ab5e8c00",
+  "lastOpenFiles": [
+    "Optimization.md",
+    "M2022/Microeconomics 2022.md",
+    "M2022/Macroeconomics M2022.md",
+    "Probability.md",
+    "Slutsky decomposition.md",
+    "Income effect.md",
+    "Goods.md",
+    "Intro to Eco (S2022)/Decision making.md",
+    "Utility function.md",
+    "ISLM model.md"
+  ]
+}

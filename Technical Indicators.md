@@ -1,0 +1,3 @@
+Use stock data in order to provide information and inform strategy decisions. 
+
+Technical indicators are lagging indicators - this means that they confirm trends in stock prices rather than predict them. TIs are based on the [[Efficient Markets]] hypothesis - balance sheet data, earnings statements and any new financial information about an asset price is immediately incorporated into the price of the asset as soon as it is revealed. 

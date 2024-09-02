@@ -1,0 +1,2 @@
+# Chebyshev's Inequality
+Taking any value of $K$ where it is the number of [[Frequency distributions#Standard deviation| standard deviations]] such that $K\ge 1$, then at least :: $$100(1-\frac1{K^2})$$ % of data will lie in a band defined by $\bar{x} - Ks$ and $\bar{x} + Ks$

@@ -1,0 +1,99 @@
+{
+  "main": {
+    "id": "914725c34e0f0c53",
+    "type": "split",
+    "children": [
+      {
+        "id": "3afbf3da681f1806",
+        "type": "leaf",
+        "state": {
+          "type": "graph",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f3296c3543687652",
+    "type": "split",
+    "children": [
+      {
+        "id": "7a49af973ef1abcc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e058571ae2006855",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "97299ac223492c66",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "3898f05ffd846a99",
+    "type": "split",
+    "children": [
+      {
+        "id": "a52c59935b52fac0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "71c33e01ca96a818",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 274,
+    "collapsed": true
+  },
+  "active": "3afbf3da681f1806",
+  "lastOpenFiles": [
+    "Intro to Eco (S2022)/firm.md",
+    "Intro to Eco (S2022)/investment.md",
+    "Intro to Eco (S2022)/aggregate demand.md",
+    "Intro to Eco (S2022)/equillibrium.md",
+    "Intro to Eco (S2022)/Capitalism.md",
+    "Intro to Eco (S2022)/Specialization.md",
+    "Intro to Eco (S2022)/economic rent.md",
+    "Intro to Eco (S2022)/employment rent.md",
+    "Intro to Eco (S2022)/contract.md",
+    "Intro to Eco (S2022)/markets.md"
+  ]
+}

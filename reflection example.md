@@ -1,0 +1,12 @@
+extension of the [[50 51 example]] with just a 100 balls total. 
+![[Pasted image 20231112183011.png|400]]
+
+$f_5\succsim f_6 \iff f_8\succsim f_7$ is a plausible as $f_5, f_8$ are reflections, $f_6,f_7$ are reflections. However, this violates the [[subjective expected utility problem (SEU)#Sure thing principlea|sure thing principle]] as 4000 is replaced by 0 in $E_1$ and 0 is replaced by 4000 in $E_4$. $$f_5\succ f_6\implies P(E_2)>P(E_3)$$$$f_8\succ f_7\implies P(E_3)>P(E_2)$$
+##### Evaluation with [[Maximin Expected Utility (MEU)]]
+Suppose $u(8000)=1, u(0)=0, u(4000)=u\in(0,1)$. Let $a\in[\underline a, \bar a], \underline a>0,\bar a<50$, where $a$ denotes the number of balls labelled 1. Let $b\in[\underline b, \bar b], \underline b>0,\bar b<50$, where $b$ denotes the number of balls labelled 3. The set of prior is $\mu=\{a/100,(50-a)/100,b/100,(50-b)/100\}$. $$EU(f_5,\mu_{ab})=u(4000)\frac a{100}+u(8000)\frac{50-a}{100}+u(4000)\frac b{100}+u(0)\frac{50-b}{100}$$$$=\frac 12+\frac{ub}{100}-\frac{1-u}{100}a$$$$\text{MEU}(f_5,\mu_{ab})=\text{min}(\frac 12+\frac{ub}{100}-\frac{1-u}{100}a)$$This is minimized at $\underline a,\bar b$. Therefore $$\text{MEU}(f_5,\mu_{ab})=\frac 12+\frac{u\bar b}{100}-\frac{1-u}{100}\underline a$$
+$$EU(f_6,\mu_{ab})=u(4000)\frac a{100}+u(4000)\frac{50-a}{100}+u(8000)\frac b{100}+u(0)\frac{50-b}{100}$$$$=\frac u2+\frac{b}{100}$$$$\text{MEU}(f_6,\mu_{ab})=\text{min}(\frac u2+\frac{b}{100})$$This is minimized at $\underline a,\bar b$. Therefore $$\text{MEU}(f_6,\mu_{ab})=\frac u2+\frac{\bar b}{100}$$
+
+$$EU(f_7,\mu_{ab})=u(0)\frac a{100}+u(8000)\frac{50-a}{100}+u(4000)\frac b{100}+u(4000)\frac{50-b}{100}$$$$=\frac u2+\frac{50-a}{100}$$$$\text{MEU}(f_7,\mu_{ab})=\text{min}(\frac u2+\frac{50-a}{100})$$This is minimized at $\underline a,\bar b$. Therefore $$\text{MEU}(f_7,\mu_{ab})=\frac u2+\frac{50-\underline a}{100}$$
+
+$$EU(f_8,\mu_{ab})=u(0)\frac a{100}+u(4000)\frac{50-a}{100}+u(8000)\frac b{100}+u(4000)\frac{50-b}{100}$$$$=u-\frac  a{100}u+\frac{b}{100}(1-u)$$$$\text{MEU}(f_8,\mu_{ab})=\text{min}(u-\frac  a{100}u+\frac{b}{100}(1-u))$$This is minimized at $\underline a,\bar b$. Therefore $$\text{MEU}(f_8,\mu_{ab})=u-\frac {\underline a}{100}u+\frac{\bar b}{100}(1-u)$$
+$$f_5\succ f_6\implies\text{MEU}(f_5,\mu_{ab})>\text{MEU}(f_6,\mu_{ab})\implies \underline a+\bar b<50$$$$f_8\succ f_7\implies\text{MEU}(f_8,\mu_{ab})>\text{MEU}(f_7,\mu_{ab})\implies \underline a+\bar b<50$$Therefore the preferences are consistent with the MEU model.

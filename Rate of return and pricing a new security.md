@@ -1,0 +1,8 @@
+If an investor buys a security at the price $P$, the expected rate of return is given by $$\mathbb E(r)=\frac{\mathbb E(CF)}{P}-1$$where $\mathbb E(CF)$ is the [[Future and present values#Present value|expected future cash flow]]. The investor is only going to pau $P$ if the expected rate of return $\mathbb E(r)$ is greater than the required rate of return $r_k$. This means that the price$$P\le\frac{\mathbb E(CF)}{1+r_k}$$which is the [[Future and present values#Present value|present value]] of expected future cash flows discounted at the required rate of return. This required rate of return is the opportunity cost of capital - the expected return forgone by not investing in another asset of the same risk. However, measuring the level of risk and the lack of presence of the existing security of the same risk could pose problems.
+
+Investors will choose to buy the financial asset only if $$P<\frac{\mathbb E(CF)}{(1+r_k)}$$however, if markets are perfectly competitive ([[Efficient market Hypothesis (EMH)]]), then $$P=\frac{\mathbb E(CF)}{1+r_k}$$
+#### Pricing and IPO
+If investors only care about risk and return, then all securities that have the same risk must yield the same expected return. 
+1. Find an existing security with the same risk
+2. Estimate the expected rate of return of this security given its price and expected cash flow$$\mathbb E(r)=\frac{\mathbb E(CF)}{P}-1$$
+3. With efficient markets, $\mathbb E(r)=r_k$, which will be the required rate of return of the IPO as it has the same risk$$P^*=\frac{\mathbb E(CF^*)}{1+r_k}$$which is the implied price of the new security

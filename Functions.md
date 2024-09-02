@@ -1,0 +1,1 @@
+Call by value of a function is when the actual parameters (from main or parent function) are copied into the formal parameters for use within the function. Call by reference is when the formal and actual parameters refer to the same memory location. This is more memory efficient

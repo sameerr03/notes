@@ -1,0 +1,4 @@
+Short sales or "shorting" an asset is reffering to buying a negative quantity of an asset in optimality, after a [[portfolio]] maximisation exercise. This is possible by the broker borrowing the stock at the current price, selling it, and buying the same amount of the stock and returning it after the borrowing period is over. Should the price of the stock fall during the borrowing period, the quantity that has to be returned is done so at a cheaper price, resulting in the broker making a return of the stock by buying a negative amount of it. 
+
+In the [[Capital asset pricing model]], there are no short sales (Mathematically allowed but does not happen), as this model assumes [[Rationalizability|common knowledge of rationality]] and also symmetric portfolio optimisation among all investors. In this case, everyone will want to short the same stock resulting in no one to borrow the stock from.
+

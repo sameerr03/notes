@@ -1,0 +1,3 @@
+In [[Game Theory]], each player has a belief of the actions of the other players in the game $\lambda_i \in \Delta S_{-i}$. 
+
+It is the set of all the probability distributions over $S_{-i}$ (the action the the other players play). It is the belief of what the other player is going to do, represented by probabilities of the other players taking each possible outcome. The [[vNm Expected utility]] behind each choice that the player can make can be found out by multiplying probabilites with the [[Utility]] to find EU of the players choices, which they use to decide.

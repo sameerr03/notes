@@ -1,0 +1,4 @@
+# Empirical analysis
+Primary and secondary data is used to understand how people behave and to evaluate policies. Empirical analysis is used to determine **causality**. Establishing causality can be achieved by eliminating all other factors that could affect the causal relationship ([[Confounders and Covariates]]). 
+
+A common way of achieving this is by using [[Randomised Control Trials (RCTs)]]. However, it is not always possible for the researchers to carry out the randomization of the test subjects. In this case the randomization is done by natural forces. These experiments are called [[Natural Experiments]].

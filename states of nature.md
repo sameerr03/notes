@@ -1,0 +1,3 @@
+**States of nature** or contingencies are taken as primitive. Each state gives a complete description of how all uncertainty resolves itself - an exhaustive list of all scenarios that might unfold. These states should be both Mutually exclusive (at most one state occurs) and exhaustive (At least one state occurs). 
+
+The set of states is given by $S$. The set of outcomes/prices $X$, is the set of all prizes regarding bets made upon the state nature $S$. A third set of acts, is a set of functions that map $f:S\to X$, defined for all $S$. 

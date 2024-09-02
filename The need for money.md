@@ -1,0 +1,3 @@
+Money is a medium of exchange. In other words, it serves as a record of a successful trade or contract honored in the past.
+
+Unlike with money, the barter system requires a double coincidence of wants. A system replacing money based just on credit solves this problem, but has frictions such as that it requires enforcement, trust for each transaction, and costless record keeping (otherwise cost of credit would increase significantly).

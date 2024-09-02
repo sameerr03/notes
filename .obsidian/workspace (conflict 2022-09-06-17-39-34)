@@ -1,0 +1,83 @@
+{
+  "main": {
+    "id": "914725c34e0f0c53",
+    "type": "split",
+    "children": [
+      {
+        "id": "3afbf3da681f1806",
+        "type": "leaf",
+        "state": {
+          "type": "graph",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0fefec533e5e975a",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "1469b7136d109a79",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {}
+        }
+      },
+      {
+        "id": "43701184a24f7352",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "Marginal",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "edb85a5cb3f80474",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "3991250e150913fd",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "active": "3afbf3da681f1806",
+  "lastOpenFiles": [
+    "G.md",
+    "sample.md",
+    "Intro to Eco (S2022)/borrowing.md",
+    "Variables.md",
+    "Population of interest.md",
+    "randomness.md",
+    "principles of note taking.md",
+    "Intro to Eco (S2022)/Cost function.md",
+    "Intro to Eco (S2022)/principal agent probelms.md",
+    "Intro to Eco (S2022)/Assets and Liabilities.md"
+  ]
+}
