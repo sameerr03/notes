@@ -13,3 +13,8 @@ Total 110, above 90 gets an A
 29/8
 [[Set theory]]
 [[Congruence modulo n]]
+
+3/9
+[[Rings]]
+[[Congruence modulo n]]
+[[Groups]]
