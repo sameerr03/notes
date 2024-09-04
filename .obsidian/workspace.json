@@ -13,49 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "M2024/Linear Algebra.md",
+                "file": "M2024/Intro to Quantitative Finance.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "c5e43adf291f5813",
+            "id": "fab38cc463d964a3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Groups.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bd8abdae2ae26189",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Set theory.md",
+                "file": "spot and forward interest rates.md",
                 "mode": "preview",
                 "source": false
               }
             }
-          },
-          {
-            "id": "25592f96021e86cf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Rings.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -121,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "M2024/Linear Algebra.md",
+                "file": "spot and forward interest rates.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,25 +137,26 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "4d1e0ed48d3bec5f",
+  "active": "fab38cc463d964a3",
   "lastOpenFiles": [
-    "Groups.md",
+    "M2024/Intro to Quantitative Finance.md",
+    "Fixed Income Securities.md",
+    "spot and forward interest rates.md",
+    "Bond Valuation.md",
+    "M2024/Introduction to Machine Learning.md",
+    "Bayesian curve fitting.md",
+    "M2024/Introduction to Machine Learning (conflict 2024-09-04-10-19-02).md",
     "M2024/Linear Algebra.md",
+    "Groups.md",
     "Congruence modulo n.md",
     "Set theory.md",
     "Field.md",
     "Rings.md",
-    "Bayesian curve fitting.md",
-    "M2024/Introduction to Machine Learning.md",
     "Overfitting and regularization.md",
     "point estimation.md",
     "Images/Pasted image 20240903210056.png",
-    "Bond Valuation.md",
-    "spot and forward interest rates.md",
     "Valuing cash flow streams.md",
     "M2024/Advanced Financial Management.md",
-    "M2024/Intro to Quantitative Finance.md",
-    "Fixed Income Securities.md",
     "S2024/Introduction to Corporate Finance.md",
     "Future and present values.md",
     "Firm's investment decisions.md",
@@ -194,7 +172,6 @@
     "Images/Pasted image 20240828151503.png",
     "Images/Pasted image 20240828151036.png",
     "Images/Pasted image 20240827210916.png",
-    "ML types.md",
     "Images/Pasted image 20240827203402.png",
     "M2024",
     "Images/Pasted image 20240820023007.png",

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fixed Income Securities.md",
+                "file": "M2024/Linear Algebra.md",
                 "mode": "source",
                 "source": false
               }
@@ -74,7 +74,7 @@
         }
       }
     ],
-    "currentTab": 1
+    "currentTab": 0
   },
   "right": {
     "id": "548978f7b374babd",
@@ -86,7 +86,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Fixed Income Securities.md",
+            "file": "M2024/Linear Algebra.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -111,6 +111,12 @@
   },
   "active": "4131781608d4dfba",
   "lastOpenFiles": [
+    "Probability.md",
+    "M2024/Introduction to Machine Learning.md",
+    "Overfitting and regularization.md",
+    "spot and forward interest rates.md",
+    "M2024/Advanced Financial Management.md",
+    "Fixed Income Securities.md",
     "M2024/Intro to Quantitative Finance.md",
     "Financial management.md",
     "S2024/Introduction to Corporate Finance.md",
@@ -141,12 +147,6 @@
     "Capital Asset Pricing Model (CAPM).md",
     "2 asset Markovitz portfolio model.md",
     "S2024/International Trade.md",
-    "Capital allocation line.md",
-    "n Asset markovitz portfolio.md",
-    "Break even analysis.md",
-    "Factor model.md",
-    "Ricardian trade model.md",
-    "Bond Valuation.md",
     "M2023"
   ]
 }
