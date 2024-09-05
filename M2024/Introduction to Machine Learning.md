@@ -10,3 +10,6 @@
 [[Probability]]
 [[Frequency distributions#Normal distributions|Normal distribution]]
 [[Bayesian curve fitting]]
+
+5/9 
+[[Bayesian curve fitting]]

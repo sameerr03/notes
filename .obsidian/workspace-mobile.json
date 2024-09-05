@@ -74,7 +74,7 @@
         }
       }
     ],
-    "currentTab": 0
+    "currentTab": 1
   },
   "right": {
     "id": "548978f7b374babd",
@@ -109,8 +109,13 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "4131781608d4dfba",
+  "active": "ce0ca4fc736e63f0",
   "lastOpenFiles": [
+    "Rings.md",
+    "Images/Pasted image 20240903210056.png",
+    "Groups.md",
+    "Bayesian curve fitting.md",
+    "Field.md",
     "Probability.md",
     "M2024/Introduction to Machine Learning.md",
     "Overfitting and regularization.md",
@@ -139,14 +144,9 @@
     "Images/Pasted image 20240417220955.png",
     "Images/Pasted image 20240417220842.png",
     "Images/Pasted image 20240417220824.png",
-    "Images/Pasted image 20240417220024.png",
     "Capital Structure.md",
     "Present Value of a stock.md",
     "Fama-French Model.md",
-    "Arbitrage pricing theory.md",
-    "Capital Asset Pricing Model (CAPM).md",
-    "2 asset Markovitz portfolio model.md",
-    "S2024/International Trade.md",
     "M2023"
   ]
 }
