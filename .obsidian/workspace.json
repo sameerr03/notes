@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "M2024/Linear Algebra.md",
+                "file": "M2024/Intro to Quantitative Finance.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e40d2138ffb2ac18",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Linear programming examples.md",
                 "mode": "source",
                 "source": false
               }
@@ -133,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "M2024/Linear Algebra.md",
+                "file": "M2024/Intro to Quantitative Finance.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,16 +186,19 @@
   },
   "active": "4d1e0ed48d3bec5f",
   "lastOpenFiles": [
+    "Linear programming examples.md",
+    "Images/Pasted image 20240909200627.png",
+    "M2024/Intro to Quantitative Finance.md",
+    "M2024/Linear Algebra.md",
+    "Capital allocation line.md",
+    "spot and forward interest rates.md",
     "Vectors.md",
     "Groups.md",
-    "M2024/Linear Algebra.md",
     "Bezout's Indentity.md",
     "Mathematical Induction.md",
     "M2024/Advanced Financial Management.md",
-    "M2024/Intro to Quantitative Finance.md",
     "M2024/Introduction to Machine Learning.md",
     "Bayesian curve fitting.md",
-    "spot and forward interest rates.md",
     "Fixed Income Securities.md",
     "Bond Valuation.md",
     "M2024/Introduction to Machine Learning (conflict 2024-09-04-10-19-02).md",
@@ -198,9 +213,6 @@
     "S2024/Introduction to Corporate Finance.md",
     "Future and present values.md",
     "Firm's investment decisions.md",
-    "Rate of return and pricing a new security.md",
-    "Function.md",
-    "Financial management.md",
     "Images/Pasted image 20240829194543.png",
     "Images/Pasted image 20240829194414.png",
     "Images/Pasted image 20240829194226.png",
@@ -210,7 +222,6 @@
     "Images/Pasted image 20240827203402.png",
     "M2024",
     "Images/Pasted image 20240820023007.png",
-    "Images/Pasted image 20240820022957.png",
     "S2024",
     "Images/tempFileForShare_20221011-014713.jpg~RF15dcf06.TMP",
     "Images/tempFileForShare_20220921-000559.jpg~RF15dcd60.TMP",

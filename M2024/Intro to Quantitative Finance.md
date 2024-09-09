@@ -15,3 +15,6 @@
 4/9
 [[Fixed Income Securities]]
 [[spot and forward interest rates]]
+
+9/9
+[[Linear programming examples]]
