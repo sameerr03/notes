@@ -1,0 +1,1 @@
+A random forest is an ensemble of [[Decision tree classifier|decision trees]], that each take a random subset of attributes. The majority decision of all the trees (voting for categorical or averaging for continuous) data is used to produce the output of a random forest. 

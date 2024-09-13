@@ -26,7 +26,8 @@ $$\text{EFN}=(\frac{\text{Total Assets}}{\text{Sales}})\times\Delta\text{Sales}-
 
 #### Growth Rates
 ![[Pasted image 20240205160437.png|600]]
-Typically at low growth levels, internal financing can be used, as the projected addition to retained earnings is much greater than the EFN. However at higher growth levels, EFN can be necessary as there is a deficit. If a company restricts itself to only internal financing, its growth rate will have to be lower. This can be found using the **Internal Growth Rate** metric, defined as the maximum growth rate a firm can achieve with no external financing. $$\text{Internal Growth Rate}=\frac{\text{ROA}\times b}{1-(\text{ROA}\times b)}$$Where:
+Typically at low growth levels, internal financing can be used, as the projected addition to retained earnings is much greater than the EFN. However at higher growth levels, EFN can be necessary as there is a deficit. If a company restricts itself to only internal financing, its growth rate will have to be lower. This can be found using the **Internal Growth Rate** metric, defined as the maximum growth rate a firm can achieve with no external financing. $$\text{Internal Growth Rate}=\frac{\text{ROA}\times b}{1-(\text{ROA}\times b)}$$It can also be written as $$\text{IGR}=b\times\text{ROE}\times\frac{\text{Equity}}{\text{Net Assets}}$$
+Where:
 - ROA is the [[Ratio analysis#Profitability ratios|return on assets]]. 
 - $b$ is the retained earnings ratio
 

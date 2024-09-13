@@ -8,72 +8,36 @@
         "type": "tabs",
         "children": [
           {
-            "id": "4d1e0ed48d3bec5f",
+            "id": "df3cf2196fa59677",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "M2024/Intro to Quantitative Finance.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e40d2138ffb2ac18",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Linear programming examples.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "012d6ab4abc2c8f3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Vectors.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c4f76c16d65a0fc8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Bezout's Indentity.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b5538b3b002e88f4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Mathematical Induction.md",
+                "file": "M2024/Advanced Financial Management.md",
                 "mode": "preview",
                 "source": false
               }
             }
           },
           {
-            "id": "fab38cc463d964a3",
+            "id": "a8d5c7f55e6f5631",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "M2024/Introduction to Machine Learning.md",
+                "file": "spot and forward interest rates.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b5bb9c8a28cf55ab",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Random forest.md",
                 "mode": "source",
                 "source": false
               }
@@ -108,7 +72,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "equivalence",
+                "query": "internal growth rate",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -125,7 +89,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -145,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "M2024/Intro to Quantitative Finance.md",
+                "file": "M2024/Advanced Financial Management.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -184,44 +149,45 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "4d1e0ed48d3bec5f",
+  "active": "df3cf2196fa59677",
   "lastOpenFiles": [
-    "Linear programming examples.md",
-    "Images/Pasted image 20240909200627.png",
-    "M2024/Intro to Quantitative Finance.md",
-    "M2024/Linear Algebra.md",
-    "Capital allocation line.md",
-    "spot and forward interest rates.md",
-    "Vectors.md",
-    "Groups.md",
-    "Bezout's Indentity.md",
-    "Mathematical Induction.md",
+    "Forecasting financial statements.md",
     "M2024/Advanced Financial Management.md",
-    "M2024/Introduction to Machine Learning.md",
-    "Bayesian curve fitting.md",
-    "Fixed Income Securities.md",
+    "Present Value of a stock.md",
+    "spot and forward interest rates.md",
+    "Random forest.md",
     "Bond Valuation.md",
-    "M2024/Introduction to Machine Learning (conflict 2024-09-04-10-19-02).md",
-    "Congruence modulo n.md",
-    "Set theory.md",
-    "Field.md",
-    "Rings.md",
-    "Overfitting and regularization.md",
-    "point estimation.md",
-    "Images/Pasted image 20240903210056.png",
-    "Valuing cash flow streams.md",
+    "Fixed Income Securities.md",
+    "Images/Pasted image 20240913220253.png",
+    "Regression trees.md",
+    "M2024/Intro to Quantitative Finance.md",
     "S2024/Introduction to Corporate Finance.md",
-    "Future and present values.md",
     "Firm's investment decisions.md",
-    "Images/Pasted image 20240829194543.png",
-    "Images/Pasted image 20240829194414.png",
-    "Images/Pasted image 20240829194226.png",
-    "Images/Pasted image 20240828151503.png",
-    "Images/Pasted image 20240828151036.png",
-    "Images/Pasted image 20240827210916.png",
-    "Images/Pasted image 20240827203402.png",
+    "Cash flows.md",
+    "Balance sheet.md",
+    "Financial management.md",
+    "Forms of business organisation.md",
+    "M2024/Introduction to Machine Learning.md",
+    "Decision tree classifier.md",
+    "Images/Pasted image 20240911233359.png",
+    "Images/Pasted image 20240911233333.png",
+    "Images/Pasted image 20240911233305.png",
+    "Images/Pasted image 20240911233241.png",
+    "Images/Pasted image 20240911233207.png",
+    "Images/Pasted image 20240911233134.png",
+    "Images/Pasted image 20240911225233.png",
+    "Naive Bayes classifier.md",
+    "Dynamic programming examples.md",
+    "Correlation.md",
+    "bayes' theorem.md",
+    "Classification.md",
+    "Images/Pasted image 20240911195032.png",
+    "random variables.md",
+    "Images/Pasted image 20240911193336.png",
+    "M2024/Linear Algebra.md",
+    "Field.md",
+    "Bezout's Indentity.md",
     "M2024",
-    "Images/Pasted image 20240820023007.png",
     "S2024",
     "Images/tempFileForShare_20221011-014713.jpg~RF15dcf06.TMP",
     "Images/tempFileForShare_20220921-000559.jpg~RF15dcd60.TMP",

@@ -1,0 +1,1 @@
+A regression tree is a [[Decision tree classifier|decision tree]] that is used to predict continuous values. 

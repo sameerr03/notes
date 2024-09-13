@@ -1,11 +1,11 @@
-Stocks produce cash flows through 2 means - Dividends and Capital gains. 
-
+Stocks produce cash flows through 2 means - Dividends and Capital gains. Stocks are more risky than bonds typically as bonds have a primary claim on the firm's assets in case of a default. Stocks are traded in the primary (new stock issues) and the secondary (previously issued stocks are traded).
 #### [[Future and present values|Present value]] of a stock
 The price of a stock at time 0 is given by $$P_0=\frac{\text{Div}_1}{1+R}+\frac{P_1}{1+R}$$Where:
 - $\text{Div}_1$ is the expected div at $t=1$
 - $P_1$ is the expected price of the stock at $t=1$
 
-At $t=1$,$$P_1=\frac{\text{Div}_2}{1+R}+\frac{P_2}{1+R}$$Together, $$P_0=\frac{\text{Div}_1}{1+R}+\frac{\text{Div}_2}{(1+R)^2}+\frac{P_2}{(1+R)^2}$$
+At $t=1$,$$P_1=\frac{\text{Div}_2}{1+R}+\frac{P_2}{1+R}$$Together, $$P_0=\frac{\text{Div}_1}{1+R}+\frac{\text{Div}_2}{(1+R)^2}+\frac{P_2}{(1+R)^2}$$Generally, 
+$$P_0=\sum_{t=1}^T\frac{\text{Div}_1}{(1+R)^t}+\frac{P_T}{(1+R)^T}$$
 There can be 3 cases of dividend value based assumptions:
 (supposing the corporation lives forever and 0 capital gains (stock is never sold))
 ##### Zero dividend growth
@@ -24,6 +24,6 @@ We know that $$\text{Net Income}=\text{Retained Earnings}+\text{Dividends Paid}$
 ##### Discount rate
 Using the growing dividend model, the price of a stock today is $$P_0=\frac{\text{Div}}{R-g}$$Substituting, $$R=\frac{\text{Div}}{P_0}+g$$This tells us that the discount rate has two components, 
 - **Dividend yield:** $\text{Div}/P_0$ (similar to [[Bond Valuation|current yield]])
-- **Capital Gains yield:** $g$ -> **the dividend growth rate is also the stock prices growth rate** according to this model (Verify by using numbers to calculate R, and then find the price of the stock in the next time period and see the growth in prices), as a result this $g$ is the capital gains yield. 
+- **Capital Gains yield:** $g$ -> **the dividend growth rate is also the stock prices growth rate** according to this model. We can prove this by taking the ratio of the stock price in 2 periods:$$\frac{P_1}{P_0}=\frac{\text{Div}_2/(r-g)}{\text{Div}_1/(r-g)}=\frac{\text{Div}_1(1+g)}{\text{Div}_1}=1+g$$
 
 

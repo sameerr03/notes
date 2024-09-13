@@ -82,8 +82,10 @@ The **term structure** of a bond is the relationship between time to maturity an
 ![[Pasted image 20240319003742.png]]
 
 #### Factors affecting required return of a bond
-- Default Risk Premium - The additional reward paid for taking on the risk that the bond issuer might default on interest/principal payments. Government T-Bills are considered risk free and bonds with lower [[Bond Valuation#Corporate bonds|bond ratings]] have to give rates of return above the risk free rate to compensate.
+- Default Risk Premium - The additional reward paid for taking on the risk that the bond issuer might default on interest/principal payments. Government T-Bills are considered risk free and bonds with lower [[Bond Valuation#Corporate bonds|bond ratings]] have to give rates of return above the risk free rate to compensate. This is calculated as the difference between the YTM and the expected return accounting for default.
 - Taxability Risk premium - Municipal bonds are not taxable. Taxable bonds must offer higher rate of return to account for this
 - Liquidity premium - bonds which are more frequently traded will have lower required returns. More liquidity is better, but tradeoff for lower liquidity
 - Other factors that may impact the cash flow of the bond
+
+The risk premium of the bond represents systematic default risk. This is the expected return adjusted for default - risk free rate. 
 

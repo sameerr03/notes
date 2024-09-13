@@ -18,3 +18,8 @@
 
 9/9
 [[Linear programming examples]]
+
+11/9
+[[Dynamic programming examples]]..
+[[Present Value of a stock]]
+[[random variables]]

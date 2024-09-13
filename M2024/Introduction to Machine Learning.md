@@ -13,3 +13,13 @@
 
 5/9 
 [[Bayesian curve fitting]]
+
+9/9
+[[Classification]]
+[[Naive Bayes classifier]]
+[[Decision tree classifier]]
+
+11/9
+[[Decision tree classifier]]
+[[Regression trees]]
+[[Random forest]]
