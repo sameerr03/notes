@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "M2024/Advanced Financial Management.md",
-                "mode": "preview",
+                "file": "M2024/Intro to Quantitative Finance.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "M2024/Advanced Financial Management.md",
+                "file": "M2024/Intro to Quantitative Finance.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,8 +151,10 @@
   },
   "active": "df3cf2196fa59677",
   "lastOpenFiles": [
-    "Forecasting financial statements.md",
+    "Dynamic programming examples.md",
+    "M2024/Intro to Quantitative Finance.md",
     "M2024/Advanced Financial Management.md",
+    "Forecasting financial statements.md",
     "Present Value of a stock.md",
     "spot and forward interest rates.md",
     "Random forest.md",
@@ -160,7 +162,6 @@
     "Fixed Income Securities.md",
     "Images/Pasted image 20240913220253.png",
     "Regression trees.md",
-    "M2024/Intro to Quantitative Finance.md",
     "S2024/Introduction to Corporate Finance.md",
     "Firm's investment decisions.md",
     "Cash flows.md",
@@ -177,7 +178,6 @@
     "Images/Pasted image 20240911233134.png",
     "Images/Pasted image 20240911225233.png",
     "Naive Bayes classifier.md",
-    "Dynamic programming examples.md",
     "Correlation.md",
     "bayes' theorem.md",
     "Classification.md",

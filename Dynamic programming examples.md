@@ -10,7 +10,7 @@ We have to use discounting to decide at the next step. At node 2, the decision i
 At node 1, $F=7+0.8\times 12.6, nF=0.8\times 25.2\implies F=17.08, nF = 20.16$
 We choose to not fish in year 1, fish in year 2 and 3. Discounted payoff is 20.16 T of fish or 20.16 USD. 
 
+### 2.
+Gold mine approaching depletion. The cost of extracting $Z$ from the total $X$ amount of gold in the mine is $$C=\frac{500Z^2}{X}$$$X$ is 50,000 ounces and price of gold is g=400/ounce, r=10%. How much is a 10 year lease on the mine worth?
 
-
-
-
+At $t=9$, when the remaining gold in the mine is $X_9$, the value of the mine is given by $$V(X_9)=\max_{Z_9}[gZ_9-\frac{500Z_9^2}{X_9}]$$Maximizing, $$g-\frac{1000Z_9}{X_9}=0\implies Z_9=\frac{gX_9}{1000}$$Therefore the value of the mine is $$V(X_9)=\frac{g^2X_9}{1000}-\frac{g^2X_9}{2000}=\frac{g^2X_9}{2000}=K_9X_9$$where $K_9=g^2/2000$. Iterating backwards and generalizing, $$V_j(X_j)=K_jX_j$$$$K_j=\frac{(g-dK_{j+1})^2}{2000}+dK_{j+1}$$where $d$ is the one period discount factor. We can find that $K_0=213.81$. Therefore $V_0=10,690,500$ which is the value of the lease
