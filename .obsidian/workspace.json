@@ -4,40 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "f6967e9780f45324",
+        "id": "fa80b787bf384c2c",
         "type": "tabs",
         "children": [
           {
-            "id": "df3cf2196fa59677",
+            "id": "b7be5caa75ce8686",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "M2024/Intro to Quantitative Finance.md",
+                "file": "M2024/Linear Algebra.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "a8d5c7f55e6f5631",
+            "id": "f591f12e3ce54c77",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "spot and forward interest rates.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b5bb9c8a28cf55ab",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Random forest.md",
+                "file": "Division algorithm.md",
                 "mode": "source",
                 "source": false
               }
@@ -89,8 +77,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -110,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "M2024/Intro to Quantitative Finance.md",
+                "file": "M2024/Linear Algebra.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,15 +136,27 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "df3cf2196fa59677",
+  "active": "b7be5caa75ce8686",
   "lastOpenFiles": [
-    "Dynamic programming examples.md",
+    "Bezout's Indentity.md",
+    "M2024/Linear Algebra.md",
+    "Division algorithm.md",
+    "Set theory.md",
+    "Mathematical Induction.md",
+    "Groups.md",
+    "Field.md",
+    "Rings.md",
+    "Congruence modulo n.md",
+    "Function.md",
+    "Functions.md",
+    "Relations.md",
+    "Random forest.md",
+    "spot and forward interest rates.md",
     "M2024/Intro to Quantitative Finance.md",
+    "Dynamic programming examples.md",
     "M2024/Advanced Financial Management.md",
     "Forecasting financial statements.md",
     "Present Value of a stock.md",
-    "spot and forward interest rates.md",
-    "Random forest.md",
     "Bond Valuation.md",
     "Fixed Income Securities.md",
     "Images/Pasted image 20240913220253.png",
@@ -166,10 +165,6 @@
     "Firm's investment decisions.md",
     "Cash flows.md",
     "Balance sheet.md",
-    "Financial management.md",
-    "Forms of business organisation.md",
-    "M2024/Introduction to Machine Learning.md",
-    "Decision tree classifier.md",
     "Images/Pasted image 20240911233359.png",
     "Images/Pasted image 20240911233333.png",
     "Images/Pasted image 20240911233305.png",
@@ -177,16 +172,8 @@
     "Images/Pasted image 20240911233207.png",
     "Images/Pasted image 20240911233134.png",
     "Images/Pasted image 20240911225233.png",
-    "Naive Bayes classifier.md",
-    "Correlation.md",
-    "bayes' theorem.md",
-    "Classification.md",
     "Images/Pasted image 20240911195032.png",
-    "random variables.md",
     "Images/Pasted image 20240911193336.png",
-    "M2024/Linear Algebra.md",
-    "Field.md",
-    "Bezout's Indentity.md",
     "M2024",
     "S2024",
     "Images/tempFileForShare_20221011-014713.jpg~RF15dcf06.TMP",

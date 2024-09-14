@@ -12,6 +12,7 @@ Total 110, above 90 gets an A
 
 29/8
 [[Set theory]]
+[[Function]]
 [[Congruence modulo n]]
 
 3/9
@@ -22,5 +23,6 @@ Total 110, above 90 gets an A
 
 5/9
 [[Mathematical Induction]]
+[[Division algorithm]]
 [[Bezout's Indentity]]
 [[Vectors]]
