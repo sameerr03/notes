@@ -23,3 +23,6 @@
 [[Dynamic programming examples]]
 [[Present Value of a stock]]
 [[random variables]]
+
+16/9
+[[Return of a portfolio]]

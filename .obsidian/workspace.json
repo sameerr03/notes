@@ -4,28 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "fa80b787bf384c2c",
+        "id": "7c4c88c67cabdaf1",
         "type": "tabs",
         "children": [
           {
-            "id": "b7be5caa75ce8686",
+            "id": "eb8cd9dfe177a570",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "M2024/Linear Algebra.md",
+                "file": "M2024/Introduction to Machine Learning.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "f591f12e3ce54c77",
+            "id": "515d402fe8101290",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Division algorithm.md",
+                "file": "Return of a portfolio.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "M2024/Linear Algebra.md",
+                "file": "M2024/Introduction to Machine Learning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,11 +136,23 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "b7be5caa75ce8686",
+  "active": "eb8cd9dfe177a570",
   "lastOpenFiles": [
-    "Bezout's Indentity.md",
-    "M2024/Linear Algebra.md",
+    "Random forest.md",
+    "Images/Pasted image 20240916195808.png",
+    "M2024/Introduction to Machine Learning.md",
+    "Regression trees.md",
+    "Decision tree classifier.md",
+    "Images/Pasted image 20240916192708.png",
+    "Images/Pasted image 20240916192452.png",
+    "M2024/Intro to Quantitative Finance.md",
+    "Return of a portfolio.md",
+    "2 asset Markovitz portfolio model.md",
     "Division algorithm.md",
+    "Fixed Income Securities.md",
+    "spot and forward interest rates.md",
+    "M2024/Linear Algebra.md",
+    "Bezout's Indentity.md",
     "Set theory.md",
     "Mathematical Induction.md",
     "Groups.md",
@@ -150,30 +162,17 @@
     "Function.md",
     "Functions.md",
     "Relations.md",
-    "Random forest.md",
-    "spot and forward interest rates.md",
-    "M2024/Intro to Quantitative Finance.md",
     "Dynamic programming examples.md",
     "M2024/Advanced Financial Management.md",
     "Forecasting financial statements.md",
     "Present Value of a stock.md",
-    "Bond Valuation.md",
-    "Fixed Income Securities.md",
     "Images/Pasted image 20240913220253.png",
-    "Regression trees.md",
-    "S2024/Introduction to Corporate Finance.md",
-    "Firm's investment decisions.md",
-    "Cash flows.md",
-    "Balance sheet.md",
     "Images/Pasted image 20240911233359.png",
     "Images/Pasted image 20240911233333.png",
     "Images/Pasted image 20240911233305.png",
     "Images/Pasted image 20240911233241.png",
     "Images/Pasted image 20240911233207.png",
     "Images/Pasted image 20240911233134.png",
-    "Images/Pasted image 20240911225233.png",
-    "Images/Pasted image 20240911195032.png",
-    "Images/Pasted image 20240911193336.png",
     "M2024",
     "S2024",
     "Images/tempFileForShare_20221011-014713.jpg~RF15dcf06.TMP",
