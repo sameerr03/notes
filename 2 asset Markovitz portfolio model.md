@@ -12,7 +12,7 @@ Assume normal  [[Jointly distributed random variables|joint distribution]] of re
 
 
 #### Expected return of risky portfolio
-The return of the risky portfolio holding the two assets in the weight is given by $$r_p=w_Ar_A+w_Br_B$$but we know that $w_A+w_B=1$. Therefore, $$r_p=w_Ar_A+(1-w_A)r_B$$Taking expectations, $$\mathbb E(r_p)=\mathbb E(r_B)+w_A[\mathbb E(r_A)-\mathbb E(r_B)]$$Similarly, in terms of $w_B$,$$\mathbb E(r_p)=w_B\mathbb E(r_B)+(1-w_B)\mathbb E(r_A)$$$$\mathbb E(r_p)=\mathbb E(r_A)-w_B[\mathbb E(r_A)-\mathbb E(r_B)]$$as $\mu_A>\mu_B$. 
+The [[Return of a portfolio|return of a risky portfolio]] holding the two assets in the weight is given by $$r_p=w_Ar_A+w_Br_B$$but we know that $w_A+w_B=1$. Therefore, $$r_p=w_Ar_A+(1-w_A)r_B$$Taking expectations, $$\mathbb E(r_p)=\mathbb E(r_B)+w_A[\mathbb E(r_A)-\mathbb E(r_B)]$$Similarly, in terms of $w_B$,$$\mathbb E(r_p)=w_B\mathbb E(r_B)+(1-w_B)\mathbb E(r_A)$$$$\mathbb E(r_p)=\mathbb E(r_A)-w_B[\mathbb E(r_A)-\mathbb E(r_B)]$$as $\mu_A>\mu_B$. 
 
 The weights can be negative. If $w_B$ is negative, it implies that the asset $B$ has been short sold and the money from selling it has been used to buy asset $A$. Plotting the expected return of the risky portfolio against the weight of asset $A$ and $B$ in the portfolio, we get
 ![[Pasted image 20240203194519.png|400]]

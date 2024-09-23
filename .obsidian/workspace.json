@@ -4,28 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "7c4c88c67cabdaf1",
+        "id": "56339ee03557a216",
         "type": "tabs",
         "children": [
           {
-            "id": "eb8cd9dfe177a570",
+            "id": "3ffe6a74a1337728",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "M2024/Introduction to Machine Learning.md",
+                "file": "n Asset markovitz portfolio.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "515d402fe8101290",
+            "id": "af17c9165ff84abe",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Return of a portfolio.md",
+                "file": "Constrained optimization of vectors.md",
                 "mode": "source",
                 "source": false
               }
@@ -81,7 +81,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "177bd11c41940361",
@@ -97,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "M2024/Introduction to Machine Learning.md",
+                "file": "n Asset markovitz portfolio.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,43 +137,44 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "eb8cd9dfe177a570",
+  "active": "3ffe6a74a1337728",
   "lastOpenFiles": [
-    "Random forest.md",
-    "Images/Pasted image 20240916195808.png",
+    "Untitled.md",
+    "n Asset markovitz portfolio.md",
+    "Constrained optimization of vectors.md",
+    "M2024/Intro to Quantitative Finance.md",
+    "2 asset Markovitz portfolio model.md",
+    "Capital Asset Pricing Model (CAPM).md",
+    "Capital allocation line.md",
+    "Investor preferences.md",
+    "Financial Assets.md",
+    "Return of a portfolio.md",
+    "2.md",
+    "quantit.md",
+    "Gradient Descent.md",
     "M2024/Introduction to Machine Learning.md",
-    "Regression trees.md",
+    "Images/Pasted image 20240921213017.png",
+    "Logistic Regression.md",
     "Decision tree classifier.md",
+    "Regression trees.md",
+    "Random forest.md",
+    "Simple Linear Regression.md",
+    "Sigmoid Function.md",
+    "Forecasting financial statements.md",
+    "M2024/Advanced Financial Management.md",
+    "S2024/Financial Markets and Asset Pricing.md",
+    "Return and Risk.md",
+    "Rings.md",
+    "Field.md",
+    "Images/Pasted image 20240919040613.png",
+    "Images/Pasted image 20240918000620.png",
+    "Images/Pasted image 20240917233012.png",
+    "Images/Pasted image 20240917232949.png",
+    "Images/Pasted image 20240917232933.png",
+    "Images/Pasted image 20240917232911.png",
+    "Images/Pasted image 20240916195808.png",
     "Images/Pasted image 20240916192708.png",
     "Images/Pasted image 20240916192452.png",
-    "M2024/Intro to Quantitative Finance.md",
-    "Return of a portfolio.md",
-    "2 asset Markovitz portfolio model.md",
-    "Division algorithm.md",
-    "Fixed Income Securities.md",
-    "spot and forward interest rates.md",
-    "M2024/Linear Algebra.md",
-    "Bezout's Indentity.md",
-    "Set theory.md",
-    "Mathematical Induction.md",
-    "Groups.md",
-    "Field.md",
-    "Rings.md",
-    "Congruence modulo n.md",
-    "Function.md",
-    "Functions.md",
-    "Relations.md",
-    "Dynamic programming examples.md",
-    "M2024/Advanced Financial Management.md",
-    "Forecasting financial statements.md",
-    "Present Value of a stock.md",
-    "Images/Pasted image 20240913220253.png",
-    "Images/Pasted image 20240911233359.png",
-    "Images/Pasted image 20240911233333.png",
-    "Images/Pasted image 20240911233305.png",
-    "Images/Pasted image 20240911233241.png",
-    "Images/Pasted image 20240911233207.png",
-    "Images/Pasted image 20240911233134.png",
     "M2024",
     "S2024",
     "Images/tempFileForShare_20221011-014713.jpg~RF15dcf06.TMP",

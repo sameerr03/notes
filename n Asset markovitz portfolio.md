@@ -17,18 +17,28 @@ All candidate portfolios to the right of the frontier will not be employed by a 
 However, all points below the [[2 asset Markovitz portfolio model#Minimum variance portfolio allocation|minimum variance portfolio]] on the frontier should not be considered as well. This is because there will be another candidate portfolio above the minimum variance portfolio on the frontier that offers higher expected return for the same level of risk. 
 ![[Pasted image 20240210030840.png|400]]
 Therefore the part of the minimum variance frontier above the minimum variance portfolio (including the minimum variance portfolio) is the set of all portfolios that maximize sharpe ratio for a given level of risk. This is the **efficient frontier**. 
+
+### Fund theorems
+#### One fund theorem
+The stock stock market holdings (market portfolio) must be the optimal portfolio
+#### Two fund theorem
+The investor needs to invest in just 2 portfolios (funds) on the efficient frontier. The remaining portfolios on the efficient frontier are just linear combinations of these. 
+
 ### Optimal portfolios
+##### Optimal portfolio with short sales
+The variance of the portfolio is given by $\textbf w^T\textbf C\ \textbf w$, and the return of the portfolio is given by $r_p = \textbf E\textbf w$. In order to find the portfolio that minimizes risk for a particular level of return, we can set up the [[Constrained optimization of vectors|constrained optimization problem:]] $$\min_{\textbf w}\textbf w^T\textbf C\ \textbf w$$to the constraints $\textbf E\textbf w=r_p$ and $\textbf w^T\textbf e=1$ where $$\textbf e=\begin{bmatrix}1\\1\\\vdots\\1\end{bmatrix}_{n\times 1}$$Therefore, based on lagrangian optimization of vectors, $$\mathcal L=\textbf w^T\textbf C\ \textbf w-\lambda_1(\textbf E\textbf w-r_p)-\lambda_2(\textbf w^T\textbf e-1)$$Taking derivatives, in optimality it must be that $$2\ \textbf C\ \textbf w^*=\lambda_1\textbf E+\lambda_2\textbf e$$Which we can use to solve for lambdas and w. $$\lambda_1 = \frac{r_p\textbf e^T\textbf C^{-1}\textbf e-\textbf E\textbf C^{-1}\textbf e}{(\textbf E^T\textbf C^{-1}\textbf E)(\textbf e^T\textbf C^{-1}\textbf e)-(\textbf e^T\textbf C^{-1}\textbf E)^2}$$$$\lambda_2 = \frac{1-\lambda_1\textbf e^T\textbf C^{-1}\textbf E}{\textbf e^T\textbf C^{-1}\textbf e}$$$$\textbf  w^T\textbf C\ \textbf w=\lambda_1^2(\textbf E^T\textbf C^{-1}\textbf E-\frac{(\textbf e^T\textbf C^{-1}\textbf E)^2}{\textbf e^T\textbf C^{-1}\textbf e})+\frac{1}{\textbf e^T\textbf C^{-1}\textbf e}$$thus the variance is minimized when $\lambda_1=0$. Therefore the optimal weights that minimize variance for the portfolio returns are$$\textbf w^*=\lambda_1(I-\frac{\textbf C^{-1}(\textbf e\textbf e^T)}{\textbf e^T\textbf C^{-1}\textbf e})\textbf C^{-1}\textbf E+\frac{\textbf C^{-1}\textbf e}{\textbf e^T\textbf C^{-1}\textbf e}$$Where $I$ is the identity matrix. If we have portfolio $A$, with weight vector $\textbf w_A$ and portfolio $B$ with weight vector $\textbf w_B$, and we take a linear combination of these portfolios (optimal) and every other value is a combination of these two. (Two fund theorem)
+ 
 ##### Optimal risky portfolio
 The optimal portfolio based on the markovitz model is the point on the efficient frontier than maximizes the sharpe ratio. Graphically, this is represented by 
 ![[Pasted image 20240214204916.png|400]]
 
-However, this portfolio does not necessarily maximize the [[Investor preferences]].
+However, this portfolio does not necessarily maximize the [[Investor preferences]]. by the one fund theorem, this must be the market portfolio. 
 
 ##### Complete Portfolio
 The complete portfolio can be found by taking weights between the optimal risky portfolio and the risk free asset, through the [[Capital allocation line]]. A point on the CAL can be selected based upon the maximization of the investors utility function with respect to the constraints of the CAL. This will give us the complete portfolio ($C$) that accounts for the investors preferences.
 
 #### Drawbacks
-- The markovitz model only takes past information into account, as a result has short term predictions
+- The Markovitz model only takes past information into account, as a result has short term predictions
 - Assumes normal returns, which is not the case for financial returns which are prone to extreme tail events
 - Assigns too much weights to very risky stocks
 - Cannot input subjective expectations about the future of the assets

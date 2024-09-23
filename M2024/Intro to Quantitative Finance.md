@@ -26,3 +26,10 @@
 
 16/9
 [[Return of a portfolio]]
+
+18,23/9
+[[Financial Assets#Modelling risk and return]]
+[[2 asset Markovitz portfolio model]]
+[[n Asset markovitz portfolio]]
+[[Capital Asset Pricing Model (CAPM)]]
+[[Constrained optimization of vectors]]

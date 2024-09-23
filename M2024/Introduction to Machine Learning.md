@@ -24,3 +24,10 @@
 [[Regression trees]]
 [[Random forest]]
 
+17/9
+[[Simple Linear Regression]]
+[[Sigmoid Function]]
+[[Logistic Regression]]
+
+19/9
+[[Gradient Descent]]

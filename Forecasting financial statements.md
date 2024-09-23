@@ -36,4 +36,3 @@ However, the firm can achieve higher growth rates by using external financing. T
 
 The ROE is also given by the [[Ratio analysis#DuPont Identity]]. Therefore an increase in any of the terms in the identity will increase the ROE, increasing the SGR. An increase in the dividend payout ratio will decrease the SGR. An increase in debt equity ratio will increase the ROE increasing the SGR. 
  
-
