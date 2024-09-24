@@ -4,28 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "56339ee03557a216",
+        "id": "325e12883c8a0c8f",
         "type": "tabs",
         "children": [
           {
-            "id": "3ffe6a74a1337728",
+            "id": "e51983af6abda22c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "n Asset markovitz portfolio.md",
+                "file": "M2024/Linear Algebra.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "af17c9165ff84abe",
+            "id": "c22e9cf5be808ddf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Constrained optimization of vectors.md",
+                "file": "Matrices.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "n Asset markovitz portfolio.md",
+                "file": "M2024/Linear Algebra.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,11 +137,15 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "3ffe6a74a1337728",
+  "active": "e51983af6abda22c",
   "lastOpenFiles": [
-    "Untitled.md",
-    "n Asset markovitz portfolio.md",
+    "Matrices.md",
+    "M2024/Linear Algebra.md",
+    "Images/Pasted image 20240924171023.png",
+    "Images/Pasted image 20240924171016.png",
+    "Vectors.md",
     "Constrained optimization of vectors.md",
+    "n Asset markovitz portfolio.md",
     "M2024/Intro to Quantitative Finance.md",
     "2 asset Markovitz portfolio model.md",
     "Capital Asset Pricing Model (CAPM).md",
@@ -163,9 +167,6 @@
     "Forecasting financial statements.md",
     "M2024/Advanced Financial Management.md",
     "S2024/Financial Markets and Asset Pricing.md",
-    "Return and Risk.md",
-    "Rings.md",
-    "Field.md",
     "Images/Pasted image 20240919040613.png",
     "Images/Pasted image 20240918000620.png",
     "Images/Pasted image 20240917233012.png",
@@ -173,8 +174,6 @@
     "Images/Pasted image 20240917232933.png",
     "Images/Pasted image 20240917232911.png",
     "Images/Pasted image 20240916195808.png",
-    "Images/Pasted image 20240916192708.png",
-    "Images/Pasted image 20240916192452.png",
     "M2024",
     "S2024",
     "Images/tempFileForShare_20221011-014713.jpg~RF15dcf06.TMP",

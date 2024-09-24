@@ -26,3 +26,7 @@ Total 110, above 90 gets an A
 [[Division algorithm]]
 [[Bezout's Indentity]]
 [[Vectors]]
+
+Chapter 2
+[[Vectors]]
+[[Matrices]]
