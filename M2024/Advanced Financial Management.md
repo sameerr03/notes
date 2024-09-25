@@ -19,4 +19,8 @@
 [[Present Value of a stock]]
 [[Forecasting financial statements#Growth Rates]]
 
+20/9
+[[Price to earnings ratio]](No PEG ratio)
+[[Price to BVPS]]
+
 

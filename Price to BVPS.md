@@ -1,0 +1,2 @@
+Ratio of the price of a stock to the [[Intro to Eco (S2022)/balance sheet|book value]] of a firm. We know from [[Present Value of a stock]] that the price is given by $$P_0=\frac{Div_1}{r-g}=\frac{(1-b)\times EPS}{r-b\times ROE}=\frac{(1-b)\times ROE\times BVPS}{r-b\times ROE}$$Therefore, $$\frac{P_0}{BVPS}=\frac{1-b\times ROE}{r-b\times ROE}$$If $r=ROE$,$$\frac{P_0}{BVPS}=\frac{(1-b)r}{r-br}=\frac{r-br}{r-br}=1$$
+
