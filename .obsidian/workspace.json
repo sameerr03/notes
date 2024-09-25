@@ -4,70 +4,47 @@
     "type": "split",
     "children": [
       {
-        "id": "b506dc681f935af7",
+        "id": "d9f9f10653ce4c26",
         "type": "tabs",
         "children": [
           {
-            "id": "507f6de96e012543",
+            "id": "0c8574b1120e92fe",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "M2024/Advanced Financial Management.md",
+                "file": "M2024/Intro to Quantitative Finance.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "995798d459b7bd64",
+            "id": "e06b431205ef845b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Price to BVPS.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cbcb1d90ed5c225b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Price to earnings ratio.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d70c863376d8cd9e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "kj.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2c8bd0c2906461e5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Intro to Eco (S2022)/balance sheet.md",
+                "file": "Predicting stock prices.md",
                 "mode": "preview",
                 "source": false
               }
             }
+          },
+          {
+            "id": "66dcc082dba2038d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lognormal distribution.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -113,8 +90,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -134,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "M2024/Advanced Financial Management.md",
+                "file": "Predicting stock prices.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,14 +149,23 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "507f6de96e012543",
+  "active": "e06b431205ef845b",
   "lastOpenFiles": [
-    "Present Value of a stock.md",
+    "M2024/Intro to Quantitative Finance.md",
+    "Predicting stock prices.md",
+    "Images/Pasted image 20240925185425.png",
+    "Images/Pasted image 20240925185341.png",
+    "Images/Pasted image 20240925185209.png",
+    "Images/Pasted image 20240925185155.png",
+    "Lognormal distribution.md",
+    "Images/Pasted image 20240925182557.png",
+    "fneilfn.md",
+    "Intro to Eco (S2022)/balance sheet.md",
     "M2024/Advanced Financial Management.md",
     "Price to BVPS.md",
     "Price to earnings ratio.md",
     "kj.md",
-    "Intro to Eco (S2022)/balance sheet.md",
+    "Present Value of a stock.md",
     "Ratio analysis.md",
     "Dividend Discount Model.md",
     "S2024/Financial Markets and Asset Pricing.md",
@@ -192,25 +177,15 @@
     "Vectors.md",
     "Constrained optimization of vectors.md",
     "n Asset markovitz portfolio.md",
-    "M2024/Intro to Quantitative Finance.md",
     "2 asset Markovitz portfolio model.md",
     "Capital Asset Pricing Model (CAPM).md",
     "Capital allocation line.md",
     "Investor preferences.md",
     "Financial Assets.md",
     "Return of a portfolio.md",
-    "2.md",
-    "quantit.md",
-    "Gradient Descent.md",
-    "M2024/Introduction to Machine Learning.md",
     "Images/Pasted image 20240921213017.png",
     "Images/Pasted image 20240919040613.png",
     "Images/Pasted image 20240918000620.png",
-    "Images/Pasted image 20240917233012.png",
-    "Images/Pasted image 20240917232949.png",
-    "Images/Pasted image 20240917232933.png",
-    "Images/Pasted image 20240917232911.png",
-    "Images/Pasted image 20240916195808.png",
     "M2024",
     "S2024",
     "Images/tempFileForShare_20221011-014713.jpg~RF15dcf06.TMP",

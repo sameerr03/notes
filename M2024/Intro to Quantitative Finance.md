@@ -33,3 +33,7 @@
 [[n Asset markovitz portfolio]]
 [[Capital Asset Pricing Model (CAPM)]]
 [[Constrained optimization of vectors]]
+
+25/9
+[[Lognormal distribution]]
+[[Predicting stock prices]]
