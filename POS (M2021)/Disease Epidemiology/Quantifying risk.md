@@ -1,7 +1,7 @@
-|Event|No Event|
-|---|---|
-|Treatment|a|
-|Control|c|
+| Event     | No Event |
+| --------- | -------- |
+| Treatment | a        |
+| Control   | c        |
 
 Risk of event in the treatment group $R_1 = \frac{a}{a+b}$
 Risk of event in the control group $R_2 = \frac{c}{c+d}$

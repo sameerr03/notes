@@ -4,40 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "d9f9f10653ce4c26",
+        "id": "da6d95994a7a7494",
         "type": "tabs",
         "children": [
           {
-            "id": "0c8574b1120e92fe",
+            "id": "eff28908e918ce86",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "M2024/Intro to Quantitative Finance.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e06b431205ef845b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Predicting stock prices.md",
+                "file": "M2024/Introduction to Machine Learning.md",
                 "mode": "preview",
                 "source": false
               }
             }
           },
           {
-            "id": "66dcc082dba2038d",
+            "id": "71ac6ee7f6b96d8b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lognormal distribution.md",
+                "file": "Capital Asset Pricing Model (CAPM).md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Predicting stock prices.md",
+                "file": "Capital Asset Pricing Model (CAPM).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,43 +137,45 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "e06b431205ef845b",
+  "active": "71ac6ee7f6b96d8b",
   "lastOpenFiles": [
     "M2024/Intro to Quantitative Finance.md",
-    "Predicting stock prices.md",
-    "Images/Pasted image 20240925185425.png",
-    "Images/Pasted image 20240925185341.png",
-    "Images/Pasted image 20240925185209.png",
-    "Images/Pasted image 20240925185155.png",
-    "Lognormal distribution.md",
-    "Images/Pasted image 20240925182557.png",
-    "fneilfn.md",
-    "Intro to Eco (S2022)/balance sheet.md",
+    "M2024/Introduction to Machine Learning.md",
     "M2024/Advanced Financial Management.md",
-    "Price to BVPS.md",
-    "Price to earnings ratio.md",
-    "kj.md",
-    "Present Value of a stock.md",
-    "Ratio analysis.md",
-    "Dividend Discount Model.md",
-    "S2024/Financial Markets and Asset Pricing.md",
-    "Forecasting financial statements.md",
+    "Clustering.md",
     "M2024/Linear Algebra.md",
-    "Matrices.md",
-    "Images/Pasted image 20240924171023.png",
-    "Images/Pasted image 20240924171016.png",
-    "Vectors.md",
+    "Capital Asset Pricing Model (CAPM).md",
+    "Principal component analysis (PCA).md",
+    "uefuef.md",
+    "Predicting stock prices.md",
+    "2 asset Markovitz portfolio model.md",
+    "POS (M2021)/Disease Epidemiology/Quantifying risk.md",
     "Constrained optimization of vectors.md",
     "n Asset markovitz portfolio.md",
-    "2 asset Markovitz portfolio model.md",
-    "Capital Asset Pricing Model (CAPM).md",
     "Capital allocation line.md",
-    "Investor preferences.md",
     "Financial Assets.md",
     "Return of a portfolio.md",
-    "Images/Pasted image 20240921213017.png",
-    "Images/Pasted image 20240919040613.png",
-    "Images/Pasted image 20240918000620.png",
+    "random variables.md",
+    "Dynamic programming examples.md",
+    "Linear programming examples.md",
+    "spot and forward interest rates.md",
+    "Fixed Income Securities.md",
+    "Investor preferences.md",
+    "S2024/Financial Markets and Asset Pricing.md",
+    "Efficient market Hypothesis (EMH).md",
+    "Eigenvector eigenvalue.md",
+    "Factor analysis.md",
+    "Images/Pasted image 20241003012204.png",
+    "Images/Pasted image 20241003003953.png",
+    "Images/Pasted image 20241003002344.png",
+    "Images/Pasted image 20241002231411.png",
+    "Images/Pasted image 20241002230938.png",
+    "Images/Pasted image 20241002224849.png",
+    "Images/Pasted image 20241002195959.png",
+    "Images/Pasted image 20241002195944.png",
+    "Images/fraud_distribution.png",
+    "Images/Pasted image 20240928141032.png",
+    "report.pdf",
     "M2024",
     "S2024",
     "Images/tempFileForShare_20221011-014713.jpg~RF15dcf06.TMP",
@@ -195,7 +185,6 @@
     "Images/Pasted image 20221126000901.png~RF15d9a3a.TMP",
     "Images/Pasted image 20221116191019.png~RF15d979b.TMP",
     "Images/Pasted image 20221114194951.png~RF15d95f5.TMP",
-    "Images/Pasted image 20220416102446.png~RF15d8451.TMP",
     "Untitled.canvas"
   ]
 }

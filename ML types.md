@@ -16,3 +16,10 @@ A text classification model is an example of a semi-supervised ML technique
 #### Reinforcement Learning
 An agent is trained using rewards and penalties based on its actions. The agent tries to maximize its cumulative reward over time. The model never stops learning unlike the other models, that only learn on the training data provided. 
 
+
+| Supervised learning                                      | Unsupervised learning                                                                          |
+| -------------------------------------------------------- | ---------------------------------------------------------------------------------------------- |
+| Humans provide labeled samples                           | No labeled samples provided                                                                    |
+| Asks machine to learn the label to data patterns         | no assumptions about patterns, uses the algorithm to find similarities and differences in data |
+| Uses trained model on labels to label future unseen data | Ideal solution for exploratory data analysis - nothing is known about data                     |
+

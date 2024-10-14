@@ -29,6 +29,7 @@ A matrix $A$ is in row-reduced echelon form (RREF) if
 1. $A$ is row-reduced
 2. Every zero row occurs below every nonzero row
 3. If row $1,2,\dots,r$ are the nonzero rows of $A$ and if the leading nonzero entry of row $i$ occurs in column $k_i$, $1\le i\le r$, then $k_1<k_2<\dots<k_r$, $r$ is the rank of $A$ ($k$ is the column corresponding to the leading nonzero entry). Thus the leading entries should be in stepwise manner. 
+
 (4) Every $m\times n$ matrix $A$ is row equivalent to a RREF matrix. The resulting RRED is unique to $A$ up to row equivalence. 
 
 If $A$ and $B$ are row-equivalent matrices that are also RREF, then $A=B$. Alternatively, any 2 matrices are row equivalent if and only if they have the same RREF. 

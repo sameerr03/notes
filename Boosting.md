@@ -1,0 +1,10 @@
+Boosting is a machine learning technique for combining many base classifiers to produce a form of committee whose performance can be significantly better than that of any of the base classifiers. The same data is not used by all the models for training. Each model theoretically specializes on different aspects. This gives good results even if the base classifiers are not so good. 
+
+All the base classifiers are trained in sequence. Each base classifier is trained using a weighted data set. The weighting coefficient associated with each datapoint depend on the performance of the previous classifiers. Points that are misclassified by the base classifiers are given greater weight when used to train the next classifier. Once all the classifiers have been trained, their predictions are combined through a weighted majority voting scheme
+
+![[Pasted image 20241002224849.png]]
+
+#### Algorithm
+Suppose $N$ is the size of the dataset. Each point in the dataset has a weight $w_n$, which is initially $1/N$ for all the datapoints. We train a classifier $y_m(\textbf x)$ for the dataset by minimizing the weighted error function where $I(y_m(\textbf x_n) = 1$ or $0$ depending on whether the class is correct or not. $$J_m=\sum_{n=1}^Nw_n^{(m)}I(y_m(\textbf x_n)\ne t_n)$$We then find the weighted average error, given by $$\epsilon_m=\frac{J_m}{\sum_{n=1}^Nw^{(m)}_n}$$We then find $$\alpha_m=\ln(\frac{1-\epsilon_m}{\epsilon_m})$$$\alpha_m$ is like the importance of each weak learner (base classifier). If the error is very low, then the importance is high. If the error is high, the importance is low. Using alpha, we update the weights for the next classifier$$w_n^{(m+1)}=w_n^{(m)}\exp(\alpha_mI(y_m(\textbf x_n)\ne t_n))$$
+#### Prediction
+The prediction by the committee of base classifiers is given by $$Y_M(\textbf x)=\text{sign}(\sum_{m=1}^M\alpha_my_m(\textbf x))$$All the weighted predictions are aggregated and the sign function assigns -1 or +1 as the final answer based on the sign of the weighted sum (this assumes that the class labels are 1 and -1 and not 0 and 1, in which case we would use the round off function).

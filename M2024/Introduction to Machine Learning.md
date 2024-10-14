@@ -31,3 +31,19 @@
 
 19/9
 [[Gradient Descent]]
+
+Lecture 8,9, 10
+[[Dimensionality reduction]]
+[[Eigenvector eigenvalue]]
+[[Principal component analysis (PCA)]]
+[[Linear discriminant analysis (LDA)]]
+[[Factor analysis]]
+[[Subset selection]]
+
+Lecture 11
+[[Bagging]]
+[[Boosting]]
+[[Classification]]
+
+Lecture 12
+[[Clustering]]

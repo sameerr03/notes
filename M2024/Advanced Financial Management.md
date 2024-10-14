@@ -23,4 +23,12 @@
 [[Price to earnings ratio]](No PEG ratio)
 [[Price to BVPS]]
 
+27/9
+[[Capital allocation line]]
+[[n Asset markovitz portfolio]]
+[[2 asset Markovitz portfolio model]]
+[[Capital Asset Pricing Model (CAPM)]]
 
+4/10
+[[Capital Asset Pricing Model (CAPM)]]
+[[Efficient market Hypothesis (EMH)]]
